@@ -1,5 +1,31 @@
 # Standard Model: Higgs–Gauge Lattice Lab
 
+<!-- ENUMINOUS-UNIFIED-NAV:START -->
+## Repository navigation
+
+**eNuminous network:** [All public repositories](https://github.com/enuminous/EFMW/blob/main/REPOSITORY_NAVIGATION.md) · [EFMW](https://github.com/enuminous/EFMW) · [102 equations](https://github.com/enuminous/Monolithic_102_EFMW) · [Frozen Lean](https://github.com/enuminous/Monolithic-102-Zoo-Lean4) · [Zoo](https://github.com/enuminous/Tortoise) · [Papers](https://github.com/enuminous/papers) · [Quantum geometry](https://github.com/enuminous/Base888-Quantum-Geometry)
+
+**This project:** [Repository home](https://github.com/enuminous/Higgs-Gauge-Lab) · [Subject index](https://github.com/enuminous/EFMW/blob/main/REPOSITORY_NAVIGATION.md#fundamental-physics-cosmology-and-quantum-geometry)
+
+<details open>
+<summary><strong>On this page</strong></summary>
+
+- [Launch](#launch)
+- [What you can do](#what-you-can-do)
+- [Model implemented](#model-implemented)
+- [Verification and inspection](#verification-and-inspection)
+- [Files (flat repository)](#files-flat-repository)
+- [Rights and attribution](#rights-and-attribution)
+
+
+</details>
+
+**Related repositories:** [Standard-Model-Reduction](https://github.com/enuminous/Standard-Model-Reduction) · [EFMW-Physics-Lab](https://github.com/enuminous/EFMW-Physics-Lab) · [Quantum-Gravity](https://github.com/enuminous/Quantum-Gravity) · [QST](https://github.com/enuminous/QST) · [Base888-Quantum-Geometry](https://github.com/enuminous/Base888-Quantum-Geometry) · [EFMW-Grid](https://github.com/enuminous/EFMW-Grid) · [EFMW](https://github.com/enuminous/EFMW) · [papers](https://github.com/enuminous/papers)
+
+> **Evidence boundary:** A link between projects is navigation, not an assertion of proven equivalence, experimental validation, or shared authorship. See each repository’s own status and review notes.
+<!-- ENUMINOUS-UNIFIED-NAV:END -->
+
+
 **An interactive, standalone lattice-field simulation, inspired by the Higgs and gauge sectors of the Standard Model Lagrangian.**
 
 > **Model boundary:** This is a **classical 2+1-dimensional Abelian–Higgs (U(1)) toy model**, not a simulation of the complete quantum Standard Model. It does not numerically evolve SU(3) or SU(2) gauge fields, fermions, Yukawa vertices or the QCD theta term.
